@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467649563037",
+    "project_id": "jeas-cfe02",
+    "storage_bucket": "jeas-cfe02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467649563037:android:2d69e836003ba151a7c774",
+        "android_client_info": {
+          "package_name": "com.example.jeas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA9o9IstmkvhXEapITudeauRvxTpJ7D30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
